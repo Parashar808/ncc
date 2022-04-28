@@ -1,0 +1,15 @@
+C:\Users\PAVILION  power\Desktop\6th sem\ncc\lab\ClassObjects\obj\Debug\net6.0\ClassObjects.csproj.AssemblyReference.cache
+C:\Users\PAVILION  power\Desktop\6th sem\ncc\lab\ClassObjects\obj\Debug\net6.0\ClassObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PAVILION  power\Desktop\6th sem\ncc\lab\ClassObjects\obj\Debug\net6.0\ClassObjects.AssemblyInfoInputs.cache
+C:\Users\PAVILION  power\Desktop\6th sem\ncc\lab\ClassObjects\obj\Debug\net6.0\ClassObjects.AssemblyInfo.cs
+C:\Users\PAVILION  power\Desktop\6th sem\ncc\lab\ClassObjects\obj\Debug\net6.0\ClassObjects.csproj.CoreCompileInputs.cache
+C:\Users\PAVILION  power\Desktop\6th sem\ncc\lab\ClassObjects\bin\Debug\net6.0\ClassObjects.exe
+C:\Users\PAVILION  power\Desktop\6th sem\ncc\lab\ClassObjects\bin\Debug\net6.0\ClassObjects.deps.json
+C:\Users\PAVILION  power\Desktop\6th sem\ncc\lab\ClassObjects\bin\Debug\net6.0\ClassObjects.runtimeconfig.json
+C:\Users\PAVILION  power\Desktop\6th sem\ncc\lab\ClassObjects\bin\Debug\net6.0\ClassObjects.dll
+C:\Users\PAVILION  power\Desktop\6th sem\ncc\lab\ClassObjects\bin\Debug\net6.0\ClassObjects.pdb
+C:\Users\PAVILION  power\Desktop\6th sem\ncc\lab\ClassObjects\obj\Debug\net6.0\ClassObjects.dll
+C:\Users\PAVILION  power\Desktop\6th sem\ncc\lab\ClassObjects\obj\Debug\net6.0\refint\ClassObjects.dll
+C:\Users\PAVILION  power\Desktop\6th sem\ncc\lab\ClassObjects\obj\Debug\net6.0\ClassObjects.pdb
+C:\Users\PAVILION  power\Desktop\6th sem\ncc\lab\ClassObjects\obj\Debug\net6.0\ClassObjects.genruntimeconfig.cache
+C:\Users\PAVILION  power\Desktop\6th sem\ncc\lab\ClassObjects\obj\Debug\net6.0\ref\ClassObjects.dll
