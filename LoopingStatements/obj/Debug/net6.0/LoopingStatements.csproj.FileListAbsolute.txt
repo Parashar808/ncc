@@ -1,0 +1,15 @@
+c:\Users\PAVILION  power\Desktop\6th sem\ncc\lab\LoopingStatements\bin\Debug\net6.0\LoopingStatements.exe
+c:\Users\PAVILION  power\Desktop\6th sem\ncc\lab\LoopingStatements\bin\Debug\net6.0\LoopingStatements.deps.json
+c:\Users\PAVILION  power\Desktop\6th sem\ncc\lab\LoopingStatements\bin\Debug\net6.0\LoopingStatements.runtimeconfig.json
+c:\Users\PAVILION  power\Desktop\6th sem\ncc\lab\LoopingStatements\bin\Debug\net6.0\LoopingStatements.dll
+c:\Users\PAVILION  power\Desktop\6th sem\ncc\lab\LoopingStatements\bin\Debug\net6.0\LoopingStatements.pdb
+c:\Users\PAVILION  power\Desktop\6th sem\ncc\lab\LoopingStatements\obj\Debug\net6.0\LoopingStatements.csproj.AssemblyReference.cache
+c:\Users\PAVILION  power\Desktop\6th sem\ncc\lab\LoopingStatements\obj\Debug\net6.0\LoopingStatements.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\PAVILION  power\Desktop\6th sem\ncc\lab\LoopingStatements\obj\Debug\net6.0\LoopingStatements.AssemblyInfoInputs.cache
+c:\Users\PAVILION  power\Desktop\6th sem\ncc\lab\LoopingStatements\obj\Debug\net6.0\LoopingStatements.AssemblyInfo.cs
+c:\Users\PAVILION  power\Desktop\6th sem\ncc\lab\LoopingStatements\obj\Debug\net6.0\LoopingStatements.csproj.CoreCompileInputs.cache
+c:\Users\PAVILION  power\Desktop\6th sem\ncc\lab\LoopingStatements\obj\Debug\net6.0\LoopingStatements.dll
+c:\Users\PAVILION  power\Desktop\6th sem\ncc\lab\LoopingStatements\obj\Debug\net6.0\refint\LoopingStatements.dll
+c:\Users\PAVILION  power\Desktop\6th sem\ncc\lab\LoopingStatements\obj\Debug\net6.0\LoopingStatements.pdb
+c:\Users\PAVILION  power\Desktop\6th sem\ncc\lab\LoopingStatements\obj\Debug\net6.0\LoopingStatements.genruntimeconfig.cache
+c:\Users\PAVILION  power\Desktop\6th sem\ncc\lab\LoopingStatements\obj\Debug\net6.0\ref\LoopingStatements.dll
