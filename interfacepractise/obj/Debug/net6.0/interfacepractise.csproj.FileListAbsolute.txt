@@ -1,0 +1,15 @@
+C:\Users\PAVILION  power\Desktop\6th sem\ncc\lab\interfacepractise\obj\Debug\net6.0\interfacepractise.csproj.AssemblyReference.cache
+C:\Users\PAVILION  power\Desktop\6th sem\ncc\lab\interfacepractise\obj\Debug\net6.0\interfacepractise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PAVILION  power\Desktop\6th sem\ncc\lab\interfacepractise\obj\Debug\net6.0\interfacepractise.AssemblyInfoInputs.cache
+C:\Users\PAVILION  power\Desktop\6th sem\ncc\lab\interfacepractise\obj\Debug\net6.0\interfacepractise.AssemblyInfo.cs
+C:\Users\PAVILION  power\Desktop\6th sem\ncc\lab\interfacepractise\obj\Debug\net6.0\interfacepractise.csproj.CoreCompileInputs.cache
+C:\Users\PAVILION  power\Desktop\6th sem\ncc\lab\interfacepractise\bin\Debug\net6.0\interfacepractise.exe
+C:\Users\PAVILION  power\Desktop\6th sem\ncc\lab\interfacepractise\bin\Debug\net6.0\interfacepractise.deps.json
+C:\Users\PAVILION  power\Desktop\6th sem\ncc\lab\interfacepractise\bin\Debug\net6.0\interfacepractise.runtimeconfig.json
+C:\Users\PAVILION  power\Desktop\6th sem\ncc\lab\interfacepractise\bin\Debug\net6.0\interfacepractise.dll
+C:\Users\PAVILION  power\Desktop\6th sem\ncc\lab\interfacepractise\bin\Debug\net6.0\interfacepractise.pdb
+C:\Users\PAVILION  power\Desktop\6th sem\ncc\lab\interfacepractise\obj\Debug\net6.0\interfacepractise.dll
+C:\Users\PAVILION  power\Desktop\6th sem\ncc\lab\interfacepractise\obj\Debug\net6.0\refint\interfacepractise.dll
+C:\Users\PAVILION  power\Desktop\6th sem\ncc\lab\interfacepractise\obj\Debug\net6.0\interfacepractise.pdb
+C:\Users\PAVILION  power\Desktop\6th sem\ncc\lab\interfacepractise\obj\Debug\net6.0\interfacepractise.genruntimeconfig.cache
+C:\Users\PAVILION  power\Desktop\6th sem\ncc\lab\interfacepractise\obj\Debug\net6.0\ref\interfacepractise.dll
