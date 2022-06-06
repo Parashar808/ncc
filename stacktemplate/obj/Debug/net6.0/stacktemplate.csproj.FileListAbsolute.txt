@@ -1,0 +1,15 @@
+C:\Users\PAVILION  power\Desktop\6th sem\ncc\lab\stacktemplate\obj\Debug\net6.0\stacktemplate.csproj.AssemblyReference.cache
+C:\Users\PAVILION  power\Desktop\6th sem\ncc\lab\stacktemplate\obj\Debug\net6.0\stacktemplate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PAVILION  power\Desktop\6th sem\ncc\lab\stacktemplate\obj\Debug\net6.0\stacktemplate.AssemblyInfoInputs.cache
+C:\Users\PAVILION  power\Desktop\6th sem\ncc\lab\stacktemplate\obj\Debug\net6.0\stacktemplate.AssemblyInfo.cs
+C:\Users\PAVILION  power\Desktop\6th sem\ncc\lab\stacktemplate\obj\Debug\net6.0\stacktemplate.csproj.CoreCompileInputs.cache
+C:\Users\PAVILION  power\Desktop\6th sem\ncc\lab\stacktemplate\bin\Debug\net6.0\stacktemplate.exe
+C:\Users\PAVILION  power\Desktop\6th sem\ncc\lab\stacktemplate\bin\Debug\net6.0\stacktemplate.deps.json
+C:\Users\PAVILION  power\Desktop\6th sem\ncc\lab\stacktemplate\bin\Debug\net6.0\stacktemplate.runtimeconfig.json
+C:\Users\PAVILION  power\Desktop\6th sem\ncc\lab\stacktemplate\bin\Debug\net6.0\stacktemplate.dll
+C:\Users\PAVILION  power\Desktop\6th sem\ncc\lab\stacktemplate\bin\Debug\net6.0\stacktemplate.pdb
+C:\Users\PAVILION  power\Desktop\6th sem\ncc\lab\stacktemplate\obj\Debug\net6.0\stacktemplate.dll
+C:\Users\PAVILION  power\Desktop\6th sem\ncc\lab\stacktemplate\obj\Debug\net6.0\refint\stacktemplate.dll
+C:\Users\PAVILION  power\Desktop\6th sem\ncc\lab\stacktemplate\obj\Debug\net6.0\stacktemplate.pdb
+C:\Users\PAVILION  power\Desktop\6th sem\ncc\lab\stacktemplate\obj\Debug\net6.0\stacktemplate.genruntimeconfig.cache
+C:\Users\PAVILION  power\Desktop\6th sem\ncc\lab\stacktemplate\obj\Debug\net6.0\ref\stacktemplate.dll

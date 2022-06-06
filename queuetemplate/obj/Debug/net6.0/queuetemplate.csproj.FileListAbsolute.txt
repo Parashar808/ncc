@@ -1,0 +1,15 @@
+C:\Users\PAVILION  power\Desktop\6th sem\ncc\lab\queuetemplate\bin\Debug\net6.0\queuetemplate.exe
+C:\Users\PAVILION  power\Desktop\6th sem\ncc\lab\queuetemplate\bin\Debug\net6.0\queuetemplate.deps.json
+C:\Users\PAVILION  power\Desktop\6th sem\ncc\lab\queuetemplate\bin\Debug\net6.0\queuetemplate.runtimeconfig.json
+C:\Users\PAVILION  power\Desktop\6th sem\ncc\lab\queuetemplate\bin\Debug\net6.0\queuetemplate.dll
+C:\Users\PAVILION  power\Desktop\6th sem\ncc\lab\queuetemplate\bin\Debug\net6.0\queuetemplate.pdb
+C:\Users\PAVILION  power\Desktop\6th sem\ncc\lab\queuetemplate\obj\Debug\net6.0\queuetemplate.csproj.AssemblyReference.cache
+C:\Users\PAVILION  power\Desktop\6th sem\ncc\lab\queuetemplate\obj\Debug\net6.0\queuetemplate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PAVILION  power\Desktop\6th sem\ncc\lab\queuetemplate\obj\Debug\net6.0\queuetemplate.AssemblyInfoInputs.cache
+C:\Users\PAVILION  power\Desktop\6th sem\ncc\lab\queuetemplate\obj\Debug\net6.0\queuetemplate.AssemblyInfo.cs
+C:\Users\PAVILION  power\Desktop\6th sem\ncc\lab\queuetemplate\obj\Debug\net6.0\queuetemplate.csproj.CoreCompileInputs.cache
+C:\Users\PAVILION  power\Desktop\6th sem\ncc\lab\queuetemplate\obj\Debug\net6.0\queuetemplate.dll
+C:\Users\PAVILION  power\Desktop\6th sem\ncc\lab\queuetemplate\obj\Debug\net6.0\refint\queuetemplate.dll
+C:\Users\PAVILION  power\Desktop\6th sem\ncc\lab\queuetemplate\obj\Debug\net6.0\queuetemplate.pdb
+C:\Users\PAVILION  power\Desktop\6th sem\ncc\lab\queuetemplate\obj\Debug\net6.0\queuetemplate.genruntimeconfig.cache
+C:\Users\PAVILION  power\Desktop\6th sem\ncc\lab\queuetemplate\obj\Debug\net6.0\ref\queuetemplate.dll
