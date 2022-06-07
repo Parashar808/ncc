@@ -8,9 +8,9 @@ namespace program{
 
             public void enqueue(T item){
             if(front==-1 && rear==-1){
-                front++;
+                
                 rear++;
-                t1[front]= t1[rear]=item ;
+                t1[rear]=item ;
             
             }
             else if(front !=rear){
@@ -24,20 +24,26 @@ namespace program{
                     Console.WriteLine("queue overflow");
                 }
             }
-            public void dequeue(){
+            public void dequeue()
+        {
+            if(front!=rear)
+            {
+                front++;
+                Console.WriteLine($"Deqeued item is : {t1[front]}");
+                t1[front] = default(T);
+                front++;
+            }
+            else{
+                Console.WriteLine("Queue Underflow");
+            }
+        }
+        public void print(){
+                
 
-                if(front>-1){
-                    t1[front]=default(T);
-                    front++;
+                for(int a=0;a<=rear;a++){
 
-
-                }
-
-            
-}
-public void print(){
-                for(int a=front;a<=rear;a++){
                     Console.WriteLine(t1[a]);
+                    
 
                 }
             }
